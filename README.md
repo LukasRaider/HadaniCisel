@@ -1,4 +1,3 @@
 # HadaniCisel
 
-Public web for showing function
-http://lukashuvar.borec.cz/Projects/JS_Hadani/index.html
+Guessing number game for the 2 player
